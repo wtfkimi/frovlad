@@ -1,0 +1,23 @@
+{
+  "name": "simple-pom",
+  "version": "1.0.0",
+  "description": "POM Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "viacheslav bondariev",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^84.0.1",
+    "config": "^3.3.1",
+    "mocha": "^8.1.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.1",
+    "jest": "^26.2.2",
+    "tape": "^5.0.1"
+  }
+}

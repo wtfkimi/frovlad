@@ -1,0 +1,14 @@
+{
+  "inputFieldGoogle": {
+    "id": "inputFieldGoogle",
+    "locator" : "//*[@class=\"gLFyf gsfi\"]"
+  },
+  "SearchButton": {
+    "id": "",
+    "locator": "//*[@class=\"gNO89b\"]"
+  },
+  "kartinki": {
+    "id": "",
+    "locator": "//*[@class=\"q qs\"]"
+  }
+}
